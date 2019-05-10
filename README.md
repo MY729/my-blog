@@ -2,7 +2,8 @@
 
 ## 开发中的参考资料
 
-* [一步一步完成nodejs+express+mysql的简单实例开发](https://blog.csdn.net/hust_cxl/article/details/79929093)
+* [一步一步完成nodejs+express+mysql的简单实例开发](https://blog.csdn.net/hust_cxl/article/details/79929093)  
+* [Windows平台安装MySQL和Navicat](https://my729.github.io/blog/article/MySQL%E5%92%8CNavicat%E7%9A%84%E5%AE%89%E8%A3%85.html)
 
 ## 问题
 
