@@ -1,6 +1,6 @@
 {
-  "name": "my-blog",
   "description": "Vue Cli3",
+  "name": "backage-blog-vue",
   "version": "0.1.0",
   "private": true,
   "scripts": {
