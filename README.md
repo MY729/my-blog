@@ -1,4 +1,4 @@
-# my-blog
+# backage-blog-vue
 
 ## Project setup
 ```
