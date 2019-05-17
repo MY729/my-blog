@@ -1,7 +1,7 @@
 var express = require('express');   //引入express模块
 var mysql = require('mysql');     //引入mysql模块
 var app = express();        //创建express的实例
- 
+
 var connection = mysql.createConnection({      //创建mysql实例
     host: 'localhost',
     user: 'root',
