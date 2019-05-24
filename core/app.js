@@ -39,6 +39,6 @@ app.get('/info',function (req,res) {
 
 
 connection.end();
-app.listen(3000,function () {    ////监听3000端口
+app.listen(7000,function () {    ////监听3000端口
     console.log('Server running at 3000 port');
 });
